@@ -68,7 +68,7 @@ sections:
         showIcon: true
         icon: instagram
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
