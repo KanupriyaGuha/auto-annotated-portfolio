@@ -62,7 +62,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: ''
         altText: ''
         url: '/https://www.instagram.com/kanupriyaguha/'
         showIcon: false
