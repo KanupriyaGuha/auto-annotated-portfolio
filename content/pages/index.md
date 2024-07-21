@@ -66,7 +66,7 @@ sections:
         altText: ''
         url: '/https://www.instagram.com/kanupriyaguha/'
         showIcon: true
-        icon: arrowRight
+        icon: instagram
         iconPosition: right
         style: primary
         elementId: ''
