@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     backgroundSize: full
     title: Hi there! I'm KANUPRIYA GUHA
     subtitle: >-
