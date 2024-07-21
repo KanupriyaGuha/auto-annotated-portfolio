@@ -57,7 +57,7 @@ sections:
         altText: ''
         url: '/https://www.linkedin.com/in/kanupriyaguha/'
         showIcon: true
-        icon: arrowRight
+        icon: linkedin
         iconPosition: right
         style: primary
         elementId: ''
