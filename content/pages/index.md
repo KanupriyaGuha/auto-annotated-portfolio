@@ -53,7 +53,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: ''
         altText: ''
         url: '/https://www.linkedin.com/in/kanupriyaguha/'
         showIcon: false
