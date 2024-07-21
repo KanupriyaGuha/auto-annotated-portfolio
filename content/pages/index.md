@@ -61,6 +61,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: '/https://www.instagram.com/kanupriyaguha/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
