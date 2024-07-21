@@ -48,7 +48,7 @@ sections:
         altText: ''
         url: '/https://github.com/KanupriyaGuha'
         showIcon: false
-        icon: arrowRight
+        icon: github
         iconPosition: right
         style: primary
         elementId: ''
