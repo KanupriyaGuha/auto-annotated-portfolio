@@ -47,7 +47,7 @@ sections:
         label: Learn more
         altText: ''
         url: '/https://github.com/KanupriyaGuha'
-        showIcon: false
+        showIcon: true
         icon: github
         iconPosition: right
         style: primary
