@@ -44,7 +44,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: ''
         altText: ''
         url: '/https://github.com/KanupriyaGuha'
         showIcon: true
