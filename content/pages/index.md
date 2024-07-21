@@ -56,7 +56,7 @@ sections:
         label: ''
         altText: ''
         url: '/https://www.linkedin.com/in/kanupriyaguha/'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
