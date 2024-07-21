@@ -14,7 +14,7 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: Hi there! I'm KANUPRIYA GUHA
-    subtitle: This is my portfolio
+    subtitle: Business Operations Analyst Intern
     styles:
       self:
         height: auto
